@@ -1,4 +1,5 @@
 *.sqlite3
+_battle/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
